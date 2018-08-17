@@ -1,1 +1,1 @@
-# middot-map
+# middot-snapshot
